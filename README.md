@@ -1,4 +1,3 @@
-
 f <(condição)>
     {
     <primeiro conjunto de comandos>;
