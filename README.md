@@ -1,5 +1,3 @@
-# Estrutura condicional composta
-Sintaxe da instrução “if/else” (se/senão):
 
 f <(condição)>
     {
